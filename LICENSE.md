@@ -104,4 +104,4 @@ https://github.com/Frodoname/Privacy-policy \
 Banny pereulok, 8\
 Moscow, Moscow 129110\
 Russia\
-https://github.co/mFrodoname/Privacy-policy/issues 
+https://github.com/Frodoname/Privacy-policy/issues
